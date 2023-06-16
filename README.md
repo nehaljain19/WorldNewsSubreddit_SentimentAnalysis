@@ -2,6 +2,8 @@
 
 Tools: PySpark, AWS, Docker and 80 MB data
 
+Dataset: https://www.kaggle.com/datasets/rootuser/worldnews-on-reddit
+
 Title: Sentiment-based Word Cloud Generator (Excluding Countries and Nationalities)
 
 Description:
